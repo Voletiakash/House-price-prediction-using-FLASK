@@ -33,3 +33,8 @@ Vendor Resources: Links to vendor resources like jQuery, Select2, Datepicker, an
 
 Overall, the HTML document provides a user interface for entering house details and submitting them for prediction, with styling and functionality enhancements using CSS and JavaScript libraries.
 ![home price](https://github.com/Voletiakash/House-price-prediction-using-FLASK/assets/85497633/5e32e6e7-1ca2-40fd-a152-c5bc1e7c4cb2)
+![home code](https://github.com/Voletiakash/House-price-prediction-using-FLASK/assets/85497633/54ac7a72-3378-4eb4-90b8-295a2406b952)
+![home code 2](https://github.com/Voletiakash/House-price-prediction-using-FLASK/assets/85497633/918bcace-629e-43eb-93a9-1260ca163802)
+![home code data](https://github.com/Voletiakash/House-price-prediction-using-FLASK/assets/85497633/6690edab-35e6-4d59-8d22-68d6424de3f0)
+
+
